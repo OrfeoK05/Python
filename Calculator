@@ -1,0 +1,6 @@
+y = int(input("Enter first digit: ")
+z = int(input("Enter second digit: ")
+
+x = y + z
+
+print("The sum of ", y, " and ", z, " is ", x)
